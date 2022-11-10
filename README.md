@@ -1,1 +1,2 @@
-# CAPITUTLO-1-Y-2
+# CAPITUTLO-1 Y 2
+bienveidos a mi nuevo repositorio 
