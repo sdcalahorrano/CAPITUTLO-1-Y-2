@@ -90,3 +90,115 @@ SECCIÓN 1–4 Conversiones de unidades métricas
 SECCIÓN 2–2 Carga eléctrica
 
 1. ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
+
+![image](https://user-images.githubusercontent.com/105056762/201228940-a412a9c9-8612-4067-bb9d-be732dfc6053.png)
+
+3. ¿Cuántos coulombs de carga poseen 50 x 1031 electrones?
+
+![image](https://user-images.githubusercontent.com/105056762/201229066-e64f17f3-7409-4689-988d-8fe5f1ec8064.png)
+
+SECCION 2–3 Voltaje, corriente y resistencia
+
+5. Determine el voltaje en cada uno de los siguientes casos:
+
+![image](https://user-images.githubusercontent.com/105056762/201229093-c4810a79-4bb8-45a8-bac7-360077c04e70.png)
+
+7. ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+![image](https://user-images.githubusercontent.com/105056762/201229117-98c1bb97-9494-4951-97c2-0695135c5375.png)
+
+9. Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+
+![image](https://user-images.githubusercontent.com/105056762/201229652-f1032fec-4219-464e-abbb-391ea2dbcd7a.png)
+
+11. Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
+
+![image](https://user-images.githubusercontent.com/105056762/201229676-6b28a998-42e9-4c92-97ba-3e3caad9bee1.png)
+
+13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?
+
+![image](https://user-images.githubusercontent.com/105056762/201229705-e02b46d7-aeb3-4422-ac24-2c996cd3cddf.png)
+
+15. Determine la conductancia para cada uno de los siguientes valores de resistencia:
+
+![image](https://user-images.githubusercontent.com/105056762/201229745-a9aacdb6-b3ec-4db9-a4de-55d9205712ab.png)
+
+SECCIÒN 2–4 Fuentes de voltaje y de corriente
+
+17. Enliste cuatro fuentes de voltaje comunes.
+
+![image](https://user-images.githubusercontent.com/105056762/201229761-c40bf1e5-8179-4b27-b9c1-57304ec03781.png)
+
+19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+![image](https://user-images.githubusercontent.com/105056762/201229779-20a37fb3-6b80-42de-b1b8-e2916c42d2c8.png)
+
+SECCIÓN 2–5 Resistores
+
+21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+
+![image](https://user-images.githubusercontent.com/105056762/201229813-d959c866-9c1a-4bc8-855a-1b1ceb6829e0.png)
+
+23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:
+
+![image](https://user-images.githubusercontent.com/105056762/201229911-5fea9991-b74c-4bf1-9d68-120b3dc17479.png)
+![image](https://user-images.githubusercontent.com/105056762/201229930-2c03372b-dc9b-43af-9c7a-36d478fa59eb.png)
+
+25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
+![image](https://user-images.githubusercontent.com/105056762/201229943-18cf127a-1795-4400-b0fb-7bdea83cad38.png)
+
+27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.
+
+![image](https://user-images.githubusercontent.com/105056762/201229967-98cd944c-db63-459f-a487-6deb2ac651f3.png)
+
+29. ¿Cuál es la resistencia indicada por 4K7?
+
+![image](https://user-images.githubusercontent.com/105056762/201229991-7fa2ddb3-3f2a-4246-82ff-ddde37d1a05d.png)
+
+SECCIÒN 2-6 El circuito eléctrico
+
+![image](https://user-images.githubusercontent.com/105056762/201230004-30802ba5-62cf-4b31-8c6f-3aae66df1c87.png)
+
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+
+![image](https://user-images.githubusercontent.com/105056762/201230029-2adc9ba6-2b52-4db4-9093-ba502302a6aa.png)
+
+33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.
+
+![image](https://user-images.githubusercontent.com/105056762/201230054-2b01aa5e-ac8c-4f8c-a39e-a3ce1f0c59d4.png)
+
+35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes devoltaje (VS1 yVS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:
+
+![image](https://user-images.githubusercontent.com/105056762/201230093-774dd617-bf26-4f91-96fd-7948eab17cf9.png)
+
+SECCIÓN 2–7 Mediciones de circuito básicas
+
+37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
+
+![image](https://user-images.githubusercontent.com/105056762/201230146-bc0e763e-13bf-4810-8258-440f9b1cda7f.png)
+
+39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+![image](https://user-images.githubusercontent.com/105056762/201230187-5bfd92cd-3a5c-496a-8539-c55e7acdc108.png)
+
+41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
+
+![image](https://user-images.githubusercontent.com/105056762/201230225-b92b3cdf-05c4-4028-bde4-f6a106bee45b.png)
+
+43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74
+
+![image](https://user-images.githubusercontent.com/105056762/201230252-211923b2-9d3e-41ae-a9cd-47f3460366c1.png)
+
+45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:
+
+![image](https://user-images.githubusercontent.com/105056762/201230274-64f0d579-7a31-4b5f-9cab-3381d14b2eef.png)
+
+47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. (a) I1 (b) V1 (c) R1
+
+![image](https://user-images.githubusercontent.com/105056762/201230353-b8ef966b-0090-4cf6-8d2a-74bfb382530d.png)
+![image](https://user-images.githubusercontent.com/105056762/201230380-a75662f3-0463-4eed-960f-61d7ce51c3e6.png)
+
+
+
+
