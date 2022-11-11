@@ -142,6 +142,7 @@ SECCIÓN 2–5 Resistores
 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:
 
 ![image](https://user-images.githubusercontent.com/105056762/201229911-5fea9991-b74c-4bf1-9d68-120b3dc17479.png)
+
 ![image](https://user-images.githubusercontent.com/105056762/201229930-2c03372b-dc9b-43af-9c7a-36d478fa59eb.png)
 
 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
@@ -199,6 +200,18 @@ SECCIÓN 2–7 Mediciones de circuito básicas
 ![image](https://user-images.githubusercontent.com/105056762/201230353-b8ef966b-0090-4cf6-8d2a-74bfb382530d.png)
 ![image](https://user-images.githubusercontent.com/105056762/201230380-a75662f3-0463-4eed-960f-61d7ce51c3e6.png)
 
+# 4. VIDEO
 
+https://youtu.be/t33dNZwMPzo
 
+# 5. CONCLUSIONES
 
+- La relación entre corriente, voltaje y resistencia se expresa por la ley de Ohn. Determina que la corriente que fluye en un circuito es directamente proporcionar al voltaje aplicado e inversamente proporcional a la resistencia del circuito, siempre que la temperatura se mantenga constante.
+- La carga eléctrica es la unión de átomos, protones, electrones cambiando su energía de positiva a negativa o viceversa y determina su electromagnetismo. Las cargas positivas y negativas se repelen por su deferencia y se atraen.
+- En conclusión, la notación científica es la que utilizamos para escribir cantidades muy grandes o muy pequeñas, como potencias de 10, ya que nuestro sistema es precisamente un sistema decimal
+
+# 6. BIBLIOGRAFÍA
+
+- FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición. México, PEARSON EDUCACIÓN
+- Administrador. (2017, May 25). Ley de Ohm - Voltaje Corriente y Resistencia. HeTPro-Tutoriales; HETPRO. https://hetpro-store.com/TUTORIALES/ley-deohm/#:~:text=Su%20unidad%20de%20medici%C3%B3n%20son,electrones%20dentro%20de%20un%20conducto.
+- Paguayo. (2019, June 18). Voltaje, Corriente, Resistencia, y Ley de Ohm - MCI Capacitación. MCI Capacitación. https://cursos.mcielectronics.cl/2019/06/18/voltaje-corriente-resistencia-y-leyde-ohm/
